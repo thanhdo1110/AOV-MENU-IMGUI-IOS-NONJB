@@ -8,7 +8,7 @@
 ![image](https://github.com/user-attachments/assets/e9647134-d3f8-4ccb-87ab-5f8de6f9856c)
 
 
-
 ## Credits:
 - [@dothanh1110](https://github.com/thanhdo1110/AOV-MENU-IMGUI-IOS-NONJB)
-- [Huy Nguyen 34306](https://github.com/34306/HuyJIT-ModMenu) ( Vì [HuyJIT-ModMenu](https://github.com/34306/HuyJIT-ModMenu) )
+- [Huy Nguyen 34306](https://github.com/34306/HuyJIT-ModMenu) ( Dự án gốc [HuyJIT-ModMenu](https://github.com/34306/HuyJIT-ModMenu) Tôi đã thực hiện 1 số chỉnh sửa từ dự án này! )
+
