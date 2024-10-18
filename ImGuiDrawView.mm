@@ -312,7 +312,7 @@ static bool MenDeal = true;
 
 //Fix fps  
             if(ctdotech_s5){
-                if(ctdotech_s4_active == NO){
+                if(ctdotech_s5_active == NO){
                     ActiveCodePatch("Frameworks/UnityFramework.framework/UnityFramework",  0x5EE95A0 , "0xC0035FD6");                 
                     //Patch
                     Hook1110("Frameworks/UnityFramework.framework/UnityFramework",  0x5EE95A0 , "0xC0035FD6");       
