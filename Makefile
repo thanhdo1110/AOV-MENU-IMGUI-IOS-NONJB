@@ -2,7 +2,7 @@
 export THEOS=/home/thanh/theos
 
 ARCHS = arm64
-TARGET = iphone:13.6
+#TARGET = iphone:13.6
 DEBUG = 0
 FINALPACKAGE = 1
 FOR_RELEASE = 1
