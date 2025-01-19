@@ -1,5 +1,8 @@
 # AOV MENU IMGUI IOS NONJB
  @dothanh1110
+
+## Autoupdate
+> bản v1.2 đã thêm auto update offset: [tại đây](https://github.com/thanhdo1110/AOV-MENU-IMGUI-IOS-NONJB/releases/tag/AOV-MENU-IMGUI-IOS-NONJB)
  
 ## Preview
 **[Menu Imgui Nonjb](https://youtu.be/7UVbLMUViqU)**
